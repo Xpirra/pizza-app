@@ -1,6 +1,6 @@
 import Vue from "vue";
 import App from "./App.vue";
-import VueRouter from "_vue-router@3.0.6@vue-router";
+import VueRouter from "vue-router";
 import About from "./components/about/About";
 import Admin from "./components/Admin";
 import Login from "./components/Login";
